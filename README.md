@@ -27,17 +27,13 @@ This is an academic project developed for the Web Programming course.
 ## Screenshots
 
 ### Homepage
-
 ![Homepage](Screenshots/homepage.png)
 
 ### Product Page
-
-![Product Page](Screenshorts/product-page.png)
+![Product Page](Screenshots/product-page.png)
 
 ### Login Page
-
 ![Login Page](Screenshots/login-page.png)
 
 ### Admin Product Management
-
 ![Admin Product Management](Screenshots/admin-product-management.png)
