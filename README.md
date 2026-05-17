@@ -30,6 +30,10 @@ This is an academic project developed for the Web Programming course.
 
 ![Homepage](Screenshots/homepage.png)
 
+### Product Page
+
+![Product Page](Screenshorts/product-page.png)
+
 ### Login Page
 
 ![Login Page](Screenshots/login-page.png)
